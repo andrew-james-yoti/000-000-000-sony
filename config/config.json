@@ -1,0 +1,11 @@
+{
+  "header": "hidden",
+  "footer": "hidden",
+  "ageEstimationHowItWorksImage": "https://cdn.jsdelivr.net/gh/andrew-james-yoti/000-000-000-000@0.0.3/assets/ps5-credit-sie@2000x1270.jpeg",
+  "digitalIdHowItWorksImage": "https://cdn.jsdelivr.net/gh/andrew-james-yoti/000-000-000-000@0.0.3/assets/game-wallpaper.jpg",
+  "docScanHowItWorksImage": "https://cdn.jsdelivr.net/gh/andrew-james-yoti/000-000-000-000@0.0.3/assets/GranTurismo7-5-min.jpeg",
+  "creditCardHowItWorksImage": "https://cdn.jsdelivr.net/gh/andrew-james-yoti/000-000-000-000@0.0.3/assets/maxresdefault.jpeg",
+  "mobileProviderHowItWorksImage": "https://cdn.jsdelivr.net/gh/andrew-james-yoti/000-000-000-000@0.0.3/assets/sony-ps5-buyer.jpeg",
+  "introPanelStyle": "vertical",
+  "postMessageWindowUrl": "http://localhost:3500"
+}
