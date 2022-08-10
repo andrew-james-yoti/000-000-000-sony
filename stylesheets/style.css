@@ -1,13 +1,5 @@
 :root {
-  /* --avs-background-image: linear-gradient(#e5e5e5, #e5e5e5); */
   --avs-overlay-image: linear-gradient(#e5e5e5, #e5e5e5);
-  /*!* for colours that should keep UKC theme colours, create css var here and apply component style *!*/
-  /*--homepage-age-estimation-badge-font-color: var(--yoti-blue-shade);*/
-  /*--header-icon-bg-color: #229dff33;*/
-  /*--header-icon-color: var(--yoti-grey-black);*/
-  /*--avs-secondary-font-color: var(--yoti-grey-dark);*/
-  /*--avs-alert-background-color: var(--yoti-blue-tint);*/
-  /*--avs-alert-font-color: var(--yoti-blue-shade);*/
   --yoti-text: arial, sans-serif;
 }
 
