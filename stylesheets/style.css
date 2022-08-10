@@ -1,6 +1,6 @@
 :root {
-  --avs-background-image: linear-gradient(#e5e5e5, #e5e5e5);
-  /*--avs-overlay-image: radial-gradient(100% 100% at 49.65% 0%, rgba(251, 251, 251, 0.5) 0%, rgba(182, 191, 204, 0.84) 100%);*/
+  /* --avs-background-image: linear-gradient(#e5e5e5, #e5e5e5); */
+  --avs-overlay-image: linear-gradient(#e5e5e5, #e5e5e5);
   /*!* for colours that should keep UKC theme colours, create css var here and apply component style *!*/
   /*--homepage-age-estimation-badge-font-color: var(--yoti-blue-shade);*/
   /*--header-icon-bg-color: #229dff33;*/
