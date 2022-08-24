@@ -1,6 +1,7 @@
 :root {
   --avs-overlay-image: linear-gradient(#e5e5e5, #e5e5e5);
   --yoti-text: arial, sans-serif;
+  --yoti-font: arial, sans-serif;
 }
 
 .yoti-button {
